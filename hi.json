@@ -1,6 +1,6 @@
 {
-    "network": "20",
-    "jobs": "12",
-    "messaging": "8",
-    "notifications": "32"
+    "network": 20,
+    "jobs": 12,
+    "messaging": 8,
+    "notifications": 32
   }
